@@ -1,0 +1,15 @@
+{
+  "id": "BeOn-Sales-25s",
+  "durationInFrames": 750,
+  "fps": 30,
+  "seconds": 25,
+  "width": 1920,
+  "height": 1080,
+  "real3D": true,
+  "voiceover": false,
+  "assetsPending": [
+    "original-logo-file",
+    "original-product-screenshot-files",
+    "conversation-and-followup-recording"
+  ]
+}

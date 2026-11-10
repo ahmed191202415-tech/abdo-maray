@@ -1,0 +1,25 @@
+{
+  "referencesReviewed": [
+    "51786244.mp4",
+    "32972654.mp4",
+    "63410619.mp4",
+    "4714790.mp4"
+  ],
+  "briefCopiesIdentical": true,
+  "inlineImagesSeen": 5,
+  "inlineImageFilesAvailable": false,
+  "originalLogoUsed": false,
+  "realProductCapturesUsed": false,
+  "temporaryScreens": [
+    "public/screens/browser-preview.png",
+    "public/screens/mobile-preview.png"
+  ],
+  "placeholderFollowup": "Conceptual callouts outside product UI; no simulated save action",
+  "voiceoverProduced": false,
+  "originalMusicProduced": true,
+  "real3D": true,
+  "mp4ExportRequested": true,
+  "githubUploadRequested": true,
+  "mp4Exported": true,
+  "mp4File": "exports/BeOn_Sales_25s.mp4"
+}

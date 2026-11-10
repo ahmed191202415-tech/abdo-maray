@@ -1,0 +1,18 @@
+{
+  "file": "BeOn_Sales_25s.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 750,
+  "durationSeconds": 25,
+  "videoCodec": "h264",
+  "pixelFormat": "yuvj420p",
+  "audioCodec": "aac",
+  "bytes": 10088914,
+  "sha256": "9776d6a627428aa8d514f9c3a57703a39b2d4a6880976519837a5c26d78ef044",
+  "decodeErrors": 0,
+  "voiceoverProduced": false,
+  "productScreens": "temporary-illustrative",
+  "originalLogoIncluded": false,
+  "real3D": true
+}

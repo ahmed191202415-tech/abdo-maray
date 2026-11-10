@@ -1,0 +1,26 @@
+[
+  {
+    "id": "BeOn-Ownership-20s",
+    "framesCompared": [
+      510,
+      599
+    ],
+    "pixelIdentical": true
+  },
+  {
+    "id": "BeOn-AfterMessage-20s",
+    "framesCompared": [
+      510,
+      599
+    ],
+    "pixelIdentical": true
+  },
+  {
+    "id": "BeOn-Anywhere-20s",
+    "framesCompared": [
+      510,
+      599
+    ],
+    "pixelIdentical": true
+  }
+]

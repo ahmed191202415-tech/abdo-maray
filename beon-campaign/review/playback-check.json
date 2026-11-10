@@ -1,0 +1,17 @@
+[
+  {
+    "composition": "BeOn-Ownership-20s",
+    "fullPlaybackSeconds": 20.2,
+    "pageErrors": []
+  },
+  {
+    "composition": "BeOn-AfterMessage-20s",
+    "fullPlaybackSeconds": 20.2,
+    "pageErrors": []
+  },
+  {
+    "composition": "BeOn-Anywhere-20s",
+    "fullPlaybackSeconds": 20.2,
+    "pageErrors": []
+  }
+]

@@ -1,0 +1,6 @@
+The original music and synthesized sound effects in public/audio/beon-original-bed.wav
+were created for this project by scripts/make-audio.py, without external samples.
+To the extent possible under law, the author dedicates this audio and synthesis script
+to the public domain under CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+Store marks and fonts are not covered by this dedication.

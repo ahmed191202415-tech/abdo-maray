@@ -1,0 +1,29 @@
+[
+  {
+    "id": "BeOn-Ownership-20s",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 600,
+    "seconds": 20,
+    "voiceover": false
+  },
+  {
+    "id": "BeOn-AfterMessage-20s",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 600,
+    "seconds": 20,
+    "voiceover": false
+  },
+  {
+    "id": "BeOn-Anywhere-20s",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 600,
+    "seconds": 20,
+    "voiceover": false
+  }
+]

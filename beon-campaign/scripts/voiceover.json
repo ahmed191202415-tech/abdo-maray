@@ -1,0 +1,17 @@
+{
+  "status": "not-produced",
+  "locale": "ar-EG",
+  "instruction": "Professional natural Egyptian Arabic. No speed changes. Measure final take before approval. Timings below are editorial guides, not measured speech alignment.",
+  "BeOn_Ownership_20s": {
+    "text": "مين تابع العميل ده؟\nلو الإجابة محتاجة تلف على الفريق، خلّيها واضحة مع BeOn.\nمحادثات عملائك، بياناتهم، والمسؤول عن المتابعة.\nمن تطبيق الموبايل أو المتصفح، تابع شغلك من أي مكان.\nجرّب BeOn.",
+    "cues": [[0,3],[3,7],[7,12],[12,17],[17,20]]
+  },
+  "BeOn_AfterMessage_20s": {
+    "text": "العميل بعتلك… إيه اللي حصل بعدها؟\nرد؟ متابعة؟ ولا الرسالة اتنسيت؟\nمع BeOn، نظّم محادثات عملائك وبياناتهم ومواعيد متابعتهم.\nمن الموبايل أو المتصفح، خليك متابع الخطوة الجاية.\nجرّب BeOn.",
+    "cues": [[0,4],[4,7],[7,13],[13,17],[17,20]]
+  },
+  "BeOn_Anywhere_20s": {
+    "text": "بعيد عن المكتب… ومحتاج تعرف عميلك وصل لفين؟\nافتح BeOn.\nراجع محادثته، بياناته، والمسؤول عن متابعته.\nمن المتصفح أو تطبيق الموبايل، شغلك معاك أينما كنت.\nمتاحة على App Store وGoogle Play.\nجرّب BeOn.",
+    "cues": [[0,4],[4,6],[6,12],[12,16],[16,18.3],[18.3,20]]
+  }
+}

@@ -7,7 +7,8 @@
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc --noEmit",
-    "review": "node scripts/review.mjs"
+    "review": "node scripts/review.mjs",
+    "export": "node scripts/export.mjs"
   },
   "repository": {},
   "license": "UNLICENSED",

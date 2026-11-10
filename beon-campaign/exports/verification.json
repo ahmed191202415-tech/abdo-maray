@@ -1,0 +1,50 @@
+[
+  {
+    "file": "BeOn_Ownership_20s.mp4",
+    "videoCodec": "h264",
+    "pixelFormat": "yuvj420p",
+    "audioCodec": "aac",
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "frames": 600,
+    "duration": 20.0,
+    "bytes": 2758460,
+    "sha256": "b8aa3b6bf08c699967608a12595c0d3420ddbbefa587bd9fe0a72a33323aea19",
+    "decodeErrors": 0,
+    "voiceover": false,
+    "interface": "illustrative-review-assets"
+  },
+  {
+    "file": "BeOn_AfterMessage_20s.mp4",
+    "videoCodec": "h264",
+    "pixelFormat": "yuvj420p",
+    "audioCodec": "aac",
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "frames": 600,
+    "duration": 20.0,
+    "bytes": 2357980,
+    "sha256": "c92cf921b1d0a3ba537fdf8ceeb897c97c63ac900f4141a60b29c314aa39f045",
+    "decodeErrors": 0,
+    "voiceover": false,
+    "interface": "illustrative-review-assets"
+  },
+  {
+    "file": "BeOn_Anywhere_20s.mp4",
+    "videoCodec": "h264",
+    "pixelFormat": "yuvj420p",
+    "audioCodec": "aac",
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "frames": 600,
+    "duration": 20.0,
+    "bytes": 2380308,
+    "sha256": "67d12a86e6fc68d6b7c0cc63f65a52676cacdb4af087107d6c4fab83dddc95df",
+    "decodeErrors": 0,
+    "voiceover": false,
+    "interface": "illustrative-review-assets"
+  }
+]
